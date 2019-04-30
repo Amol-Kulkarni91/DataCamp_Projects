@@ -1,1 +1,1 @@
-# Exploring_67_years_of_Lego
+# This repository contains my code for the DataCamp Projects in Python
